@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an app or game development project
 - 📫 How to reach me on my email - aswin2k03.mk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am funny I think most of the time 😅
+- ⚡ Fun facts: I am funny. I think most of the time. 😅
 - My Website - https://aswin-m-kumar.github.io/
 
 <!---
