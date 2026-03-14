@@ -17,7 +17,7 @@
 - 🌱 I'm currently diving deep into **Electrical Engineering**, alongside learning **Machine Learning** & **PCB Designing**.
 - 👀 I'm highly interested in gaming, reading books, and exploring how hardware and software intersect.
 - 💞️ I'm actively looking to collaborate on **app or game development** projects. Let's build something cool!
-- ⚡ Fun fact: I am funny. At least, I think so most of the time! 😅
+- ⚡ Fun fact: I am funny. I think most of the time! 😅
 
 ---
 
