@@ -12,6 +12,12 @@
 
 ---
 
+## Resume
+
+📄 [Download Resume](https://aswin-m-kumar.github.io/resume/Aswin_M_Kumar-Resume.pdf)
+
+---
+
 ## 👨‍💻 About Me
 
 - 🌱 I'm currently diving deep into **Electrical Engineering**, alongside learning **Machine Learning** & **PCB Designing**.
