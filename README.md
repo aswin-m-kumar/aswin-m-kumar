@@ -1,8 +1,8 @@
 # Hi there, I'm Aswin M Kumar! 👋
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Electrical+Engineering+Student;Machine+Learning+Enthusiast;PCB+Designer;Aspiring+Game+%26+App+Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Electrical+Engineering+Student;Machine+Learning+Enthusiast;PCB+Designer;Aspiring+Game+%26+App+Developer" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=EEE+%40+CET+%2727+%7C+Graduating+2027;Embedded+Systems+%2B+IoT+Engineer;Top+10+%2F+133+%E2%80%94+Satwa25+Hackathon;PCB+Designer+%7C+KiCAD;ML+on+Hardware+%7C+AIoT">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=EEE+%40+CET+%2727+%7C+Graduating+2027;Embedded+Systems+%2B+IoT+Engineer;Top+10+%2F+133+%E2%80%94+Satwa25+Hackathon;PCB+Designer+%7C+KiCAD;ML+on+Hardware+%7C+AIoT" alt="Typing SVG" />
   </a>
 </p>
 
