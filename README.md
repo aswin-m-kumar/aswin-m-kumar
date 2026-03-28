@@ -63,7 +63,6 @@ I build systems where **hardware meets intelligence** — working at the interse
 | [Solar PV MPPT](https://github.com/aswin-m-kumar/Solar_PV_MPPT_Simulation) | MPPT algorithm simulation comparing Perturb & Observe vs Incremental Conductance for maximum energy harvest | MATLAB · Simulink | Performance analysis of two industry-standard MPPT techniques |
 | [NOT_KTU](https://github.com/aswin-m-kumar/Not_KTU_Results) | Satirical university results portal with interactive UI and audio easter eggs | JS · Tone.js · Tailwind | Selected for TinkerHub Useless Projects 2.0 |
 
-*(Screenshots / demo GIFs of Trash Nada dashboard and Gesture game coming soon — currently live in portfolio)*
 
 ---
 
