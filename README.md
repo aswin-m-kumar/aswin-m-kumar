@@ -65,11 +65,3 @@ I build systems where **hardware meets intelligence** — working at the interse
 
 
 ---
-
-## Currently Building
-```python
-current_work = {
-    "Solar PV + MPPT":          "MATLAB/Simulink — comparing P&O vs Incremental Conductance for real-world efficiency gains",
-    "Caterpillar Challenge":    "ML-based PI controller gain tuning for Buck-Boost converter (MATLAB/Simulink)",
-    "PgBee App":                "Flutter frontend — PG & hostel discovery platform (startup project)",
-}
