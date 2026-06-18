@@ -11,7 +11,7 @@
 
 ## About
 
-3rd-year Electrical & Electronics Engineering student at **College of Engineering Trivandrum** (CGPA: 8.15), graduating May 2027.
+4th-year Electrical & Electronics Engineering student at **College of Engineering Trivandrum** (CGPA: 8.21), graduating May 2027.
 
 I build systems where **hardware meets intelligence** — working at the intersection of embedded systems, IoT, and applied machine learning. Passionate about creating innovative, real-world solutions that bridge circuit design, Python, C, and cross-platform development.
 
